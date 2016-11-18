@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+/* font-family: 'Reenie Beanie', cursive;*/
+body {
+  font-family: 'PT Sans', sans-serif;
+}
